@@ -6,4 +6,4 @@ In this notebook, molecules are imported as a list of SMILES strings from an exc
 
 2D and 3D mordred descriptors are calculated and filtered to remove errors and based on collinearity. An excel sheet of the final descriptors can be exported for other applications.
 
-Dimensionality reduction (PCA) and clustering (K-means) is performed in order to test the resulting descriptors. If an error occurs, section 5 can be used to identify the improper descriptors or molecules (some molecules have been found to be particularly problematic for descriptor calculation).
+Dimensionality reduction (PCA) and clustering (K-means) is performed in order to test the resulting descriptors. If an error occurs, section 4 can be used to identify the improper descriptors or molecules (some molecules have been found to be particularly problematic for descriptor calculation).
