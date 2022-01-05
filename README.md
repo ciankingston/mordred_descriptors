@@ -1,4 +1,6 @@
-# mordred_descriptor_calculation (python 3.7.3)
+# mordred_descriptor_calculation
+
+Written with python 3.7.3
 
 Mordred is a freely available software application that can calculate >1800 2- and 3-dimensional molecular descriptors. See https://mordred-descriptor.github.io/documentation/master/descriptors.html for a list of descriptors and Moriwaki, H.; Tian, Y.-S.; Kawashita, N.; Takagi, T. J. Cheminf. 2018, 10, 4 for further details.
 
